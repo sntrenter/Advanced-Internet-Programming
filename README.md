@@ -3,6 +3,7 @@ Spring 2018
 
 ## Overview
  * [Course Syllabus](syllabus.md)
+ * [Major Project](project.md)
 
 ### Reference Material
  * [EcmaScript 2015 (ES6)](https://github.com/nzakas/understandinges6)
