@@ -11,10 +11,10 @@ Your class project will be written in teams of 3-5 developers. Your project must
 
  The project grade will be based on making the following checkpoints - each is worth 10% of the project grade:
 
-  * April 6 - Teams finalized and project decided.
-  * April 13 - Framework selected. Base project structure and tooling decided.
-  * April 20 - Routing setup with static HTML/CSS views.
-  * April 27 - 1 Unit and 1 E2E test working
+  * April 9 - Teams finalized and project decided.
+  * April 16 - Framework selected. Base project structure and tooling decided.
+  * April 27 - Routing setup with static HTML/CSS views.
+  * May 4 - 1 Unit and 1 E2E test working
 
 The final project must be turned in on May 11 (study day). The submission itself will be 60% of the project grade.
 
